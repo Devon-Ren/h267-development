@@ -1,0 +1,129 @@
+/scratch/zr2245/anaconda3/envs/gs/bin/python
+2.2.0+cu118
+True
+Running on host: gl021.hpc.nyu.edu
+CUDA_VISIBLE_DEVICES=0
+Using python: /scratch/zr2245/anaconda3/envs/gs/bin/python
+Start time: Thu Mar  5 11:56:31 PM EST 2026
+Epoch 01
+  train_model_bits   = 0.929216
+  val_model_bits     = 0.842522
+  val_cabac_bits     = 0.604803
+  val_delta_bits     = 0.237719
+  sig_model_bits     = 0.834526
+  sig_cabac_bits     = 0.527624
+  sig_delta_bits     = 0.306901
+  gt1_model_bits     = 0.853090
+  gt1_cabac_bits     = 0.706818
+  gt1_delta_bits     = 0.146273
+  n_total=136009  n_sig=77430  n_gt1=58579
+Epoch 02
+  train_model_bits   = 0.775131
+  val_model_bits     = 0.698285
+  val_cabac_bits     = 0.604803
+  val_delta_bits     = 0.093482
+  sig_model_bits     = 0.643695
+  sig_cabac_bits     = 0.527624
+  sig_delta_bits     = 0.116071
+  gt1_model_bits     = 0.770441
+  gt1_cabac_bits     = 0.706818
+  gt1_delta_bits     = 0.063623
+  n_total=136009  n_sig=77430  n_gt1=58579
+Epoch 03
+  train_model_bits   = 0.677818
+  val_model_bits     = 0.643556
+  val_cabac_bits     = 0.604803
+  val_delta_bits     = 0.038753
+  sig_model_bits     = 0.574722
+  sig_cabac_bits     = 0.527624
+  sig_delta_bits     = 0.047098
+  gt1_model_bits     = 0.734540
+  gt1_cabac_bits     = 0.706818
+  gt1_delta_bits     = 0.027722
+  n_total=136009  n_sig=77430  n_gt1=58579
+Epoch 04
+  train_model_bits   = 0.648286
+  val_model_bits     = 0.629939
+  val_cabac_bits     = 0.604803
+  val_delta_bits     = 0.025136
+  sig_model_bits     = 0.557357
+  sig_cabac_bits     = 0.527624
+  sig_delta_bits     = 0.029733
+  gt1_model_bits     = 0.725878
+  gt1_cabac_bits     = 0.706818
+  gt1_delta_bits     = 0.019061
+  n_total=136009  n_sig=77430  n_gt1=58579
+Epoch 05
+  train_model_bits   = 0.639468
+  val_model_bits     = 0.624050
+  val_cabac_bits     = 0.604803
+  val_delta_bits     = 0.019247
+  sig_model_bits     = 0.549610
+  sig_cabac_bits     = 0.527624
+  sig_delta_bits     = 0.021985
+  gt1_model_bits     = 0.722446
+  gt1_cabac_bits     = 0.706818
+  gt1_delta_bits     = 0.015628
+  n_total=136009  n_sig=77430  n_gt1=58579
+Epoch 06
+  train_model_bits   = 0.635037
+  val_model_bits     = 0.620915
+  val_cabac_bits     = 0.604803
+  val_delta_bits     = 0.016112
+  sig_model_bits     = 0.545545
+  sig_cabac_bits     = 0.527624
+  sig_delta_bits     = 0.017920
+  gt1_model_bits     = 0.720540
+  gt1_cabac_bits     = 0.706818
+  gt1_delta_bits     = 0.013722
+  n_total=136009  n_sig=77430  n_gt1=58579
+Epoch 07
+  train_model_bits   = 0.632060
+  val_model_bits     = 0.618208
+  val_cabac_bits     = 0.604803
+  val_delta_bits     = 0.013405
+  sig_model_bits     = 0.541881
+  sig_cabac_bits     = 0.527624
+  sig_delta_bits     = 0.014256
+  gt1_model_bits     = 0.719097
+  gt1_cabac_bits     = 0.706818
+  gt1_delta_bits     = 0.012279
+  n_total=136009  n_sig=77430  n_gt1=58579
+Epoch 08
+  train_model_bits   = 0.629915
+  val_model_bits     = 0.616690
+  val_cabac_bits     = 0.604803
+  val_delta_bits     = 0.011887
+  sig_model_bits     = 0.539924
+  sig_cabac_bits     = 0.527624
+  sig_delta_bits     = 0.012300
+  gt1_model_bits     = 0.718159
+  gt1_cabac_bits     = 0.706818
+  gt1_delta_bits     = 0.011341
+  n_total=136009  n_sig=77430  n_gt1=58579
+Epoch 09
+  train_model_bits   = 0.628535
+  val_model_bits     = 0.615128
+  val_cabac_bits     = 0.604803
+  val_delta_bits     = 0.010325
+  sig_model_bits     = 0.538161
+  sig_cabac_bits     = 0.527624
+  sig_delta_bits     = 0.010536
+  gt1_model_bits     = 0.716863
+  gt1_cabac_bits     = 0.706818
+  gt1_delta_bits     = 0.010045
+  n_total=136009  n_sig=77430  n_gt1=58579
+Epoch 10
+  train_model_bits   = 0.626963
+  val_model_bits     = 0.614090
+  val_cabac_bits     = 0.604803
+  val_delta_bits     = 0.009287
+  sig_model_bits     = 0.537102
+  sig_cabac_bits     = 0.527624
+  sig_delta_bits     = 0.009478
+  gt1_model_bits     = 0.715853
+  gt1_cabac_bits     = 0.706818
+  gt1_delta_bits     = 0.009036
+  n_total=136009  n_sig=77430  n_gt1=58579
+saved model.
+End time: Thu Mar  5 11:57:39 PM EST 2026

@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# build / binary
+build/
+bin/
+out/
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+
+# large experiment outputs
+exp/**/recon/
+exp/**/stats/*.npy
+exp/**/stats/*.yuv
+*.yuv
+*.npy

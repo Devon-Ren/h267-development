@@ -1,0 +1,2 @@
+/usr/bin/ar qc /scratch/zr2245/VVCSoftware_VTM-master/lib/umake/gcc-11.5/x86_64/release/libUtilities.a CMakeFiles/Utilities.dir/VideoIOYuv.cpp.o CMakeFiles/Utilities.dir/program_options_lite.cpp.o
+/usr/bin/ranlib /scratch/zr2245/VVCSoftware_VTM-master/lib/umake/gcc-11.5/x86_64/release/libUtilities.a

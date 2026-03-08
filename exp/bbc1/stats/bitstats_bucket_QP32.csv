@@ -1,0 +1,11 @@
+bucket,bits,ratio_vs_total
+headers,58169,0.01554802
+overhead,0,0.00000000
+merge_skip,337960,0.09033349
+motion,259720,0.06942069
+residual,2326255,0.62178583
+inloop,15648,0.00418256
+other_syntax,711920,0.19028944
+unattributed_cabac,31576,0.00843996
+CABAC_Subtotal,3683079,0.98445198
+TOTAL_bits,3741248,1.00000000

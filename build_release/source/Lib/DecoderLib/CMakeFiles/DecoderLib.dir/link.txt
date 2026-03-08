@@ -1,0 +1,2 @@
+/usr/bin/ar qc /scratch/zr2245/VVCSoftware_VTM-master/lib/umake/gcc-11.5/x86_64/release/libDecoderLib.a CMakeFiles/DecoderLib.dir/AnnexBread.cpp.o CMakeFiles/DecoderLib.dir/BinDecoder.cpp.o CMakeFiles/DecoderLib.dir/CABACReader.cpp.o CMakeFiles/DecoderLib.dir/DecCu.cpp.o CMakeFiles/DecoderLib.dir/DecLib.cpp.o CMakeFiles/DecoderLib.dir/DecSlice.cpp.o CMakeFiles/DecoderLib.dir/NALread.cpp.o CMakeFiles/DecoderLib.dir/SEIread.cpp.o CMakeFiles/DecoderLib.dir/VLCReader.cpp.o
+/usr/bin/ranlib /scratch/zr2245/VVCSoftware_VTM-master/lib/umake/gcc-11.5/x86_64/release/libDecoderLib.a

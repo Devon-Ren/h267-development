@@ -1,0 +1,369 @@
+/scratch/zr2245/anaconda3/envs/gs/bin/python
+2.2.0+cu118
+True
+Running on host: gl059.hpc.nyu.edu
+CUDA_VISIBLE_DEVICES=0
+Using python: /scratch/zr2245/anaconda3/envs/gs/bin/python
+Start time: Fri Mar  6 12:04:02 AM EST 2026
+Epoch 01
+  train_model_bits   = 0.929216
+  val_model_bits     = 0.842522
+  val_cabac_bits     = 0.604803
+  val_delta_bits     = 0.237719
+  sig_model_bits     = 0.834526
+  sig_cabac_bits     = 0.527624
+  sig_delta_bits     = 0.306901
+  gt1_model_bits     = 0.853090
+  gt1_cabac_bits     = 0.706818
+  gt1_delta_bits     = 0.146273
+  n_total=136009  n_sig=77430  n_gt1=58579
+Epoch 02
+  train_model_bits   = 0.775131
+  val_model_bits     = 0.698285
+  val_cabac_bits     = 0.604803
+  val_delta_bits     = 0.093482
+  sig_model_bits     = 0.643695
+  sig_cabac_bits     = 0.527624
+  sig_delta_bits     = 0.116071
+  gt1_model_bits     = 0.770441
+  gt1_cabac_bits     = 0.706818
+  gt1_delta_bits     = 0.063623
+  n_total=136009  n_sig=77430  n_gt1=58579
+Epoch 03
+  train_model_bits   = 0.677818
+  val_model_bits     = 0.643556
+  val_cabac_bits     = 0.604803
+  val_delta_bits     = 0.038753
+  sig_model_bits     = 0.574722
+  sig_cabac_bits     = 0.527624
+  sig_delta_bits     = 0.047098
+  gt1_model_bits     = 0.734540
+  gt1_cabac_bits     = 0.706818
+  gt1_delta_bits     = 0.027722
+  n_total=136009  n_sig=77430  n_gt1=58579
+Epoch 04
+  train_model_bits   = 0.648286
+  val_model_bits     = 0.629939
+  val_cabac_bits     = 0.604803
+  val_delta_bits     = 0.025136
+  sig_model_bits     = 0.557357
+  sig_cabac_bits     = 0.527624
+  sig_delta_bits     = 0.029733
+  gt1_model_bits     = 0.725878
+  gt1_cabac_bits     = 0.706818
+  gt1_delta_bits     = 0.019061
+  n_total=136009  n_sig=77430  n_gt1=58579
+Epoch 05
+  train_model_bits   = 0.639468
+  val_model_bits     = 0.624050
+  val_cabac_bits     = 0.604803
+  val_delta_bits     = 0.019247
+  sig_model_bits     = 0.549610
+  sig_cabac_bits     = 0.527624
+  sig_delta_bits     = 0.021985
+  gt1_model_bits     = 0.722446
+  gt1_cabac_bits     = 0.706818
+  gt1_delta_bits     = 0.015628
+  n_total=136009  n_sig=77430  n_gt1=58579
+Epoch 06
+  train_model_bits   = 0.635037
+  val_model_bits     = 0.620915
+  val_cabac_bits     = 0.604803
+  val_delta_bits     = 0.016112
+  sig_model_bits     = 0.545545
+  sig_cabac_bits     = 0.527624
+  sig_delta_bits     = 0.017920
+  gt1_model_bits     = 0.720540
+  gt1_cabac_bits     = 0.706818
+  gt1_delta_bits     = 0.013722
+  n_total=136009  n_sig=77430  n_gt1=58579
+Epoch 07
+  train_model_bits   = 0.632060
+  val_model_bits     = 0.618208
+  val_cabac_bits     = 0.604803
+  val_delta_bits     = 0.013405
+  sig_model_bits     = 0.541881
+  sig_cabac_bits     = 0.527624
+  sig_delta_bits     = 0.014256
+  gt1_model_bits     = 0.719097
+  gt1_cabac_bits     = 0.706818
+  gt1_delta_bits     = 0.012279
+  n_total=136009  n_sig=77430  n_gt1=58579
+Epoch 08
+  train_model_bits   = 0.629915
+  val_model_bits     = 0.616690
+  val_cabac_bits     = 0.604803
+  val_delta_bits     = 0.011887
+  sig_model_bits     = 0.539924
+  sig_cabac_bits     = 0.527624
+  sig_delta_bits     = 0.012300
+  gt1_model_bits     = 0.718159
+  gt1_cabac_bits     = 0.706818
+  gt1_delta_bits     = 0.011341
+  n_total=136009  n_sig=77430  n_gt1=58579
+Epoch 09
+  train_model_bits   = 0.628535
+  val_model_bits     = 0.615128
+  val_cabac_bits     = 0.604803
+  val_delta_bits     = 0.010325
+  sig_model_bits     = 0.538161
+  sig_cabac_bits     = 0.527624
+  sig_delta_bits     = 0.010536
+  gt1_model_bits     = 0.716863
+  gt1_cabac_bits     = 0.706818
+  gt1_delta_bits     = 0.010045
+  n_total=136009  n_sig=77430  n_gt1=58579
+Epoch 10
+  train_model_bits   = 0.626963
+  val_model_bits     = 0.614090
+  val_cabac_bits     = 0.604803
+  val_delta_bits     = 0.009287
+  sig_model_bits     = 0.537102
+  sig_cabac_bits     = 0.527624
+  sig_delta_bits     = 0.009478
+  gt1_model_bits     = 0.715853
+  gt1_cabac_bits     = 0.706818
+  gt1_delta_bits     = 0.009036
+  n_total=136009  n_sig=77430  n_gt1=58579
+Epoch 11
+  train_model_bits   = 0.625870
+  val_model_bits     = 0.613166
+  val_cabac_bits     = 0.604803
+  val_delta_bits     = 0.008363
+  sig_model_bits     = 0.536028
+  sig_cabac_bits     = 0.527624
+  sig_delta_bits     = 0.008403
+  gt1_model_bits     = 0.715129
+  gt1_cabac_bits     = 0.706818
+  gt1_delta_bits     = 0.008311
+  n_total=136009  n_sig=77430  n_gt1=58579
+Epoch 12
+  train_model_bits   = 0.624903
+  val_model_bits     = 0.612394
+  val_cabac_bits     = 0.604803
+  val_delta_bits     = 0.007591
+  sig_model_bits     = 0.535409
+  sig_cabac_bits     = 0.527624
+  sig_delta_bits     = 0.007784
+  gt1_model_bits     = 0.714154
+  gt1_cabac_bits     = 0.706818
+  gt1_delta_bits     = 0.007336
+  n_total=136009  n_sig=77430  n_gt1=58579
+Epoch 13
+  train_model_bits   = 0.623964
+  val_model_bits     = 0.611695
+  val_cabac_bits     = 0.604803
+  val_delta_bits     = 0.006893
+  sig_model_bits     = 0.534442
+  sig_cabac_bits     = 0.527624
+  sig_delta_bits     = 0.006818
+  gt1_model_bits     = 0.713809
+  gt1_cabac_bits     = 0.706818
+  gt1_delta_bits     = 0.006992
+  n_total=136009  n_sig=77430  n_gt1=58579
+Epoch 14
+  train_model_bits   = 0.623105
+  val_model_bits     = 0.610789
+  val_cabac_bits     = 0.604803
+  val_delta_bits     = 0.005986
+  sig_model_bits     = 0.533719
+  sig_cabac_bits     = 0.527624
+  sig_delta_bits     = 0.006095
+  gt1_model_bits     = 0.712661
+  gt1_cabac_bits     = 0.706818
+  gt1_delta_bits     = 0.005843
+  n_total=136009  n_sig=77430  n_gt1=58579
+Epoch 15
+  train_model_bits   = 0.622187
+  val_model_bits     = 0.610693
+  val_cabac_bits     = 0.604803
+  val_delta_bits     = 0.005890
+  sig_model_bits     = 0.532803
+  sig_cabac_bits     = 0.527624
+  sig_delta_bits     = 0.005178
+  gt1_model_bits     = 0.713649
+  gt1_cabac_bits     = 0.706818
+  gt1_delta_bits     = 0.006831
+  n_total=136009  n_sig=77430  n_gt1=58579
+Epoch 16
+  train_model_bits   = 0.621673
+  val_model_bits     = 0.609848
+  val_cabac_bits     = 0.604803
+  val_delta_bits     = 0.005045
+  sig_model_bits     = 0.532801
+  sig_cabac_bits     = 0.527624
+  sig_delta_bits     = 0.005176
+  gt1_model_bits     = 0.711689
+  gt1_cabac_bits     = 0.706818
+  gt1_delta_bits     = 0.004872
+  n_total=136009  n_sig=77430  n_gt1=58579
+Epoch 17
+  train_model_bits   = 0.620603
+  val_model_bits     = 0.609018
+  val_cabac_bits     = 0.604803
+  val_delta_bits     = 0.004215
+  sig_model_bits     = 0.531778
+  sig_cabac_bits     = 0.527624
+  sig_delta_bits     = 0.004154
+  gt1_model_bits     = 0.711114
+  gt1_cabac_bits     = 0.706818
+  gt1_delta_bits     = 0.004296
+  n_total=136009  n_sig=77430  n_gt1=58579
+Epoch 18
+  train_model_bits   = 0.619885
+  val_model_bits     = 0.608440
+  val_cabac_bits     = 0.604803
+  val_delta_bits     = 0.003638
+  sig_model_bits     = 0.531331
+  sig_cabac_bits     = 0.527624
+  sig_delta_bits     = 0.003707
+  gt1_model_bits     = 0.710364
+  gt1_cabac_bits     = 0.706818
+  gt1_delta_bits     = 0.003546
+  n_total=136009  n_sig=77430  n_gt1=58579
+Epoch 19
+  train_model_bits   = 0.619167
+  val_model_bits     = 0.608428
+  val_cabac_bits     = 0.604803
+  val_delta_bits     = 0.003625
+  sig_model_bits     = 0.531017
+  sig_cabac_bits     = 0.527624
+  sig_delta_bits     = 0.003393
+  gt1_model_bits     = 0.710750
+  gt1_cabac_bits     = 0.706818
+  gt1_delta_bits     = 0.003933
+  n_total=136009  n_sig=77430  n_gt1=58579
+Epoch 20
+  train_model_bits   = 0.618500
+  val_model_bits     = 0.607499
+  val_cabac_bits     = 0.604803
+  val_delta_bits     = 0.002696
+  sig_model_bits     = 0.529883
+  sig_cabac_bits     = 0.527624
+  sig_delta_bits     = 0.002259
+  gt1_model_bits     = 0.710091
+  gt1_cabac_bits     = 0.706818
+  gt1_delta_bits     = 0.003273
+  n_total=136009  n_sig=77430  n_gt1=58579
+Epoch 21
+  train_model_bits   = 0.617839
+  val_model_bits     = 0.606755
+  val_cabac_bits     = 0.604803
+  val_delta_bits     = 0.001952
+  sig_model_bits     = 0.529515
+  sig_cabac_bits     = 0.527624
+  sig_delta_bits     = 0.001891
+  gt1_model_bits     = 0.708851
+  gt1_cabac_bits     = 0.706818
+  gt1_delta_bits     = 0.002034
+  n_total=136009  n_sig=77430  n_gt1=58579
+Epoch 22
+  train_model_bits   = 0.617140
+  val_model_bits     = 0.606076
+  val_cabac_bits     = 0.604803
+  val_delta_bits     = 0.001273
+  sig_model_bits     = 0.528702
+  sig_cabac_bits     = 0.527624
+  sig_delta_bits     = 0.001077
+  gt1_model_bits     = 0.708351
+  gt1_cabac_bits     = 0.706818
+  gt1_delta_bits     = 0.001533
+  n_total=136009  n_sig=77430  n_gt1=58579
+Epoch 23
+  train_model_bits   = 0.616400
+  val_model_bits     = 0.605716
+  val_cabac_bits     = 0.604803
+  val_delta_bits     = 0.000913
+  sig_model_bits     = 0.528112
+  sig_cabac_bits     = 0.527624
+  sig_delta_bits     = 0.000487
+  gt1_model_bits     = 0.708293
+  gt1_cabac_bits     = 0.706818
+  gt1_delta_bits     = 0.001475
+  n_total=136009  n_sig=77430  n_gt1=58579
+Epoch 24
+  train_model_bits   = 0.616097
+  val_model_bits     = 0.605468
+  val_cabac_bits     = 0.604803
+  val_delta_bits     = 0.000666
+  sig_model_bits     = 0.527482
+  sig_cabac_bits     = 0.527624
+  sig_delta_bits     = -0.000143
+  gt1_model_bits     = 0.708551
+  gt1_cabac_bits     = 0.706818
+  gt1_delta_bits     = 0.001734
+  n_total=136009  n_sig=77430  n_gt1=58579
+Epoch 25
+  train_model_bits   = 0.616080
+  val_model_bits     = 0.605650
+  val_cabac_bits     = 0.604803
+  val_delta_bits     = 0.000847
+  sig_model_bits     = 0.528089
+  sig_cabac_bits     = 0.527624
+  sig_delta_bits     = 0.000464
+  gt1_model_bits     = 0.708171
+  gt1_cabac_bits     = 0.706818
+  gt1_delta_bits     = 0.001353
+  n_total=136009  n_sig=77430  n_gt1=58579
+Epoch 26
+  train_model_bits   = 0.615178
+  val_model_bits     = 0.604688
+  val_cabac_bits     = 0.604803
+  val_delta_bits     = -0.000115
+  sig_model_bits     = 0.527058
+  sig_cabac_bits     = 0.527624
+  sig_delta_bits     = -0.000567
+  gt1_model_bits     = 0.707300
+  gt1_cabac_bits     = 0.706818
+  gt1_delta_bits     = 0.000482
+  n_total=136009  n_sig=77430  n_gt1=58579
+Epoch 27
+  train_model_bits   = 0.614623
+  val_model_bits     = 0.604084
+  val_cabac_bits     = 0.604803
+  val_delta_bits     = -0.000719
+  sig_model_bits     = 0.526310
+  sig_cabac_bits     = 0.527624
+  sig_delta_bits     = -0.001314
+  gt1_model_bits     = 0.706887
+  gt1_cabac_bits     = 0.706818
+  gt1_delta_bits     = 0.000069
+  n_total=136009  n_sig=77430  n_gt1=58579
+Epoch 28
+  train_model_bits   = 0.614266
+  val_model_bits     = 0.603897
+  val_cabac_bits     = 0.604803
+  val_delta_bits     = -0.000906
+  sig_model_bits     = 0.526103
+  sig_cabac_bits     = 0.527624
+  sig_delta_bits     = -0.001522
+  gt1_model_bits     = 0.706726
+  gt1_cabac_bits     = 0.706818
+  gt1_delta_bits     = -0.000091
+  n_total=136009  n_sig=77430  n_gt1=58579
+Epoch 29
+  train_model_bits   = 0.613766
+  val_model_bits     = 0.603656
+  val_cabac_bits     = 0.604803
+  val_delta_bits     = -0.001147
+  sig_model_bits     = 0.525847
+  sig_cabac_bits     = 0.527624
+  sig_delta_bits     = -0.001778
+  gt1_model_bits     = 0.706504
+  gt1_cabac_bits     = 0.706818
+  gt1_delta_bits     = -0.000313
+  n_total=136009  n_sig=77430  n_gt1=58579
+Epoch 30
+  train_model_bits   = 0.613236
+  val_model_bits     = 0.604078
+  val_cabac_bits     = 0.604803
+  val_delta_bits     = -0.000725
+  sig_model_bits     = 0.525862
+  sig_cabac_bits     = 0.527624
+  sig_delta_bits     = -0.001762
+  gt1_model_bits     = 0.707464
+  gt1_cabac_bits     = 0.706818
+  gt1_delta_bits     = 0.000647
+  n_total=136009  n_sig=77430  n_gt1=58579
+saved model.
+End time: Fri Mar  6 12:06:03 AM EST 2026
